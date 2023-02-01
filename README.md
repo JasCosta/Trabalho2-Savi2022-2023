@@ -12,3 +12,17 @@ Este foi dividido em 3 partes
 -A utilização de uma webcam para identificação de objetos
 
 Para realização d
+
+
+Sumário
+
+Objetivo 1 - Treino de um classificador em deep learning
+
+Objetivo 2 - Pre-processamento 3D
+
+Objetivo 3 - Classificação de objetos na cena
+
+Objetivo 4 - Descrição áudio da cena
+
+Objetivo 5 - Sistema em tempo real
+
